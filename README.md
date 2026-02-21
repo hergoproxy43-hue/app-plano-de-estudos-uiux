@@ -39,7 +39,8 @@ Este projeto inclui:
 
 ## 👨‍💻 Autor
 
-Leandro Lopes
+Leandro Lopes do Carmo
+Estudante de Análise e Desenvovimento de Sistemas
 
 ---
 
